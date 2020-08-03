@@ -1,4 +1,10 @@
-### Hey guys 👋
+![](https://img.shields.io/badge/Born-2001/03/21-%)
+![](https://img.shields.io/badge/Status-Student-%)
+![](https://img.shields.io/badge/Native_language-Japanese-%)
+
+[Twitter](https://twitter.com/iidakunndayo)  
+[facebook](https://facebook.com/iidakunndayo)  
+[Portfolio](https://iidakunndayo.github.io/portfolio)
 
 <!--
 **iidakunndayo/iidakunndayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
