@@ -1,6 +1,6 @@
-![](https://img.shields.io/badge/Born-2001/03/21-%)
-![](https://img.shields.io/badge/Status-Student-%)
-![](https://img.shields.io/badge/Native_language-Japanese-%)
+![Born](https://img.shields.io/badge/Born-2001/03/21-ef858c)
+![Status](https://img.shields.io/badge/Status-Student-green)
+![Native Language](https://img.shields.io/badge/Native_language-Japanese-red)
 
 [Twitter](https://twitter.com/iidakunndayo)  
 [facebook](https://facebook.com/iidakunndayo)  
