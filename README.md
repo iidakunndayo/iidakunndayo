@@ -1,6 +1,6 @@
-![](https://img.shields.io/badge/Location-Chiba,Japan-%)
-![](https://img.shields.io/badge/Status-Student-%)
-![](https://img.shields.io/badge/Native-Japanese-%)
+![Location](https://img.shields.io/badge/Location-Chiba,Japan-%)
+![Status](https://img.shields.io/badge/Status-Student-%)
+![Native](https://img.shields.io/badge/Native-Japanese-%)
 
 [Twitter](https://twitter.com/iidakunndayo)  
 [facebook](https://facebook.com/iidakunndayo)  
