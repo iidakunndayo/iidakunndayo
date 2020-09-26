@@ -14,7 +14,8 @@ iidakunndayo (Yuki IIDA)
 19
 1. Belong  
     - National Insutitute of Technology Kisarazu Currege (Department of Electronic Control Engineering)
-    - Hematite inc. IoT-Team (Part-time)
+    - Hematite inc. IoT-Team (Part-time) [~ 2020/10/11]
+    - Owl for One inc.(Part-time) [2020/10/12 ~]
 1. Hobby  
     - Train         (Ride, Model, Imaginary Railway) 
     - Virtual Idol 
@@ -24,7 +25,7 @@ iidakunndayo (Yuki IIDA)
     - Soldering
     - Circuit design
     - Mechanical design
-    - C-lang
+    - C/C++
     - Python3
     - Arduino
     - Raspberry Pi
