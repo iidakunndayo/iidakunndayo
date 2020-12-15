@@ -18,9 +18,9 @@ iidakunndayo (Yuki IIDA)
     - Owl for One inc.(Part-time) [2020-10-12 ~]
 1. Hobby  
     - Train         (Ride, Model, Imaginary Railway) 
-    - Virtual Idol 
-    - Anime 
-    - Game          (Simuration, Strategy) 
+    - Virtual Idol
+    - Anime
+    - Game          (Simuration, Strategy, Rhythm) 
 1. Knowledge
     - Soldering
     - Circuit design
