@@ -11,11 +11,12 @@ iidakunndayo (Yuki IIDA)
 1. Birthday  
 21st, March
 1. Age  
-19
+20
 1. Belong  
     - National Insutitute of Technology Kisarazu Currege (Department of Electronic Control Engineering)
     - Hematite inc. IoT-Team (Part-time) [~ 2020-10-11]
     - Owl for One inc.(Part-time) [2020-10-12 ~]
+    - Fruits Holdings Pte. Ltd. (Part-time) [2021-02-13]
 1. Hobby  
     - Train         (Ride, Model, Imaginary Railway) 
     - Virtual Idol
