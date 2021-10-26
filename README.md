@@ -25,7 +25,7 @@ iidakunndayo (Yuki IIDA)
     - Game          (Simuration, Strategy, Rhythm) 
 1. Knowledge
     - Soldering
-    - Electrical circuit design
+    - Electronic circuit design
     - Mechanical design
     - C/C++
     - Python3
