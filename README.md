@@ -11,7 +11,7 @@ iidakunndayo (Yuki IIDA)
 1. Birthday  
 21st, March
 1. Age  
-20
+21
 1. Belong  
     - National Insutitute of Technology Kisarazu Currege (Department of Electronic Control Engineering)
     - Hematite inc. IoT-Team (Part-time) [2019-01-01 ~ 2020-10-11]
