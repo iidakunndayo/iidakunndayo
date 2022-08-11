@@ -16,11 +16,10 @@ iidakunndayo (Yuki IIDA)
     - National Insutitute of Technology Kisarazu Currege (Department of Electronic Control Engineering)
     - Hematite inc. IoT-Team (Part-time) [2019-01-01 ~ 2020-10-11]
     - Owl for One inc. (Part-time) [2020-10-12 ~ 2021-10-11]
-    - Yourstand inc. (Part-time) [2021-10-12 ~]
-    - Fruits Holdings Pte. Ltd. (Part-time) [2021-02-13 ~]
+    - Yourstand inc. (Part-time) [2021-10-12 ~ 2022-05-30]
 1. Hobby  
     - Train         (Ride, Model, Imaginary Railway) 
-    - Virtual Idol
+    - Idol
     - Anime
     - Game          (Simuration, Strategy, Rhythm) 
 1. Knowledge
