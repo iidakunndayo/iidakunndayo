@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/Locate-Chiba-red)
-![](https://img.shields.io/badge/Status-Freeter-green)
+![](https://img.shields.io/badge/Status-Neet-green)
 ![](https://img.shields.io/badge/Native-Japanese-Blue)
 
 [Twitter](https://twitter.com/iidakunndayo)  
