@@ -13,7 +13,7 @@ iidakunndayo (Yuki IIDA)
 1. Age  
 21
 1. Belong  
-    - National Insutitute of Technology Kisarazu Currege (Department of Electronic Control Engineering)
+    - National Insutitute of Technology Kisarazu Currege (Department of Electronic Control Engineering) [2016-04 ~ 2022-03]
     - Hematite inc. IoT-Team (Part-time) [2019-01-01 ~ 2020-10-11]
     - Owl for One inc. (Part-time) [2020-10-12 ~ 2021-10-11]
     - Yourstand inc. (Part-time) [2021-10-12 ~ 2022-05-30]
