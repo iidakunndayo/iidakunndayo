@@ -26,6 +26,7 @@ iidakunndayo (Yuki IIDA)
     - Soldering
     - Electronic circuit design
     - Mechanical design
+    - Control Engineering (Basically)
     - C/C++
     - Python3
     - Arduino
